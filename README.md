@@ -32,7 +32,7 @@ M3@d0wv@l3 F@lc0n$ @r3 @W3$0M3!
 ```
 ---
 
-Create a file called **distance.py** and upload it to the repositry. Write a program that takes in four inputs: x1, y1, x2, y2 and outputs the distance between (x1, y1) and (x2, y2) rounded to one decimal place.
+Create a file called **distance.py** and upload it to the repository. Write a program that takes in four inputs: x1, y1, x2, y2 and outputs the distance between (x1, y1) and (x2, y2) rounded to one decimal place.
 
 **Sample Input 1**
 ```
