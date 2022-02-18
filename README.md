@@ -2,7 +2,7 @@
 
 ---
 
-Create a file called **email.py** and upload it to this repository. Write a program that takes in a peel email address in the form number@pdsb.net and outputs the number. Note that the number length can vary.
+Create a file called **email.py** and upload it to this repository. Write a program that takes in a peel email address in the form number@pdsb.net and outputs the number. Note that the number length can vary. It can also include letters as well as numbers.
 
 **Sample Input 1**
 
